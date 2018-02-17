@@ -1,0 +1,1 @@
+main(c){c=getchar(); printf("%d",c);}

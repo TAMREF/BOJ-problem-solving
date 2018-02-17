@@ -1,0 +1,1 @@
+n=int(input());a=list(map(int,input().split()));print("%.2f"%(sum(a)/max(a)*100/n))

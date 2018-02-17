@@ -1,0 +1,1 @@
+x,y=map(int,input().split(' '));print("MTWTFSSOUEHRAUNEDUITN"[(int("426415305226"[-x])+y)%7::7])

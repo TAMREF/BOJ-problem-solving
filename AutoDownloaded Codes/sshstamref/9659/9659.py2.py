@@ -1,0 +1,1 @@
+print("CSYK"[input()%2::2])

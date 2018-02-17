@@ -1,0 +1,1 @@
+exec('a=0\nfor _ in range(0,5): a+=max(40,int(input()))\nprint(a//5)')

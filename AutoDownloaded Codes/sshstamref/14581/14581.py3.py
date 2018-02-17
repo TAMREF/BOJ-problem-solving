@@ -1,0 +1,1 @@
+a=':fan:';print(a*3,a+':'+input()+':'+a,a*3,sep='\n')

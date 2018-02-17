@@ -1,0 +1,1 @@
+print("SCSCSSSKYKYKKK"[input()%7::7])

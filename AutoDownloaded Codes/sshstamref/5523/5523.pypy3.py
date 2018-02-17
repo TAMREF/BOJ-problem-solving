@@ -1,0 +1,1 @@
+exec('c1=0;c2=0;\nfor i in range(int(input())):\n\ta,b=list(map(int,input().split()))\n\tc1+=(a>b);c2+=(a<b);\nprint(c1,c2)')

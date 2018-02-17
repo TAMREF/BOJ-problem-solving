@@ -1,0 +1,2 @@
+#import <bits/stdc++.h>
+using namespace std;int n,w[10][10],t[10],s,m,a=1e9,i,j,x;int main(){cin>>n;for(i=0;i<n;t[i]=i++)for(j=0;j<n;j++)cin>>w[i][j];do{s=0,m=1;for(i=1;i<n;i++) s+=x=w[t[i-1]][t[i]],m=m&&x;a=min(a,m&&(x=w[t[n-1]][0])?s+x:a);}while(next_permutation(t+1,t+n));cout<<a;}

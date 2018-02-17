@@ -1,0 +1,1 @@
+a=[0]*10;exec('for i in input():a[int(i)]+=1\na[6]=(a[6]+a[9]+1)//2;a[9]=a[6]');print(max(a))

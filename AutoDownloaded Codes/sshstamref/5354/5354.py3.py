@@ -1,0 +1,1 @@
+exec('for _ in range(int(input())):\n\tn=int(input())-2\n\tif n < 0 : print(str(chr(35)))\n\telse : print(str(chr(35))*(n+2)+\'\\n\'+(str(chr(35))+\'J\'*n+str(chr(35))+\'\\n\')*n+str(chr(35))*(n+2))\n\tprint()')
