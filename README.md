@@ -17,7 +17,7 @@ csacademy : TAMREF
 + BOJ 14869 (Cook, KOI 2017)
 
 (2018.02.17)
-+ BOJ AutoDownloaded Codes (Non-classified)
++ BOJ AutoDownloaded Codes (not classified)
 
 (2018.02.22)
 + BOJ 5817 (SNJEGULJICA, Suffering Dwarves, COI 2013)
