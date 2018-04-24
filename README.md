@@ -19,3 +19,6 @@ Blog : tam-ref.ga, Codeforces : TAMREF
 
 (2018.02.23)
 + BOJ 3835 (Alphabet Soup, SWERC 2011)
+
+(2018.03.24)
++ KSAOJ foldpermutation
