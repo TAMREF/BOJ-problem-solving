@@ -12,7 +12,7 @@
 
 ## Competitive Programming Records
 Team / Individual Competitive Programming (Practice) Records
-+ *Italics in Contest Name* : Practice.
++ *Italics in Contest Name* : Practice (Virtual).
 + *Italics in problem verdicts* : Upsolved.
 + Penalty = (First AC Time (min)) + 20min * (WA s).
 
