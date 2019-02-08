@@ -22,3 +22,4 @@ Team / Individual Competitive Programming (Practice) Records
 |19.01.06|Atcoder Educational DP Contest|TAMREF|20|26||**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|**+**|
 |Cont'd||||||**+1**|**+1**|**+**|**+**|**+**|**+**|*-0*|*-0*|*-0*|.|*-0*|*-0*|**+**|
 |19.01.12|Atcoder AIsing Programming Contest 2019|TAMREF|1100(4)|1700(5)||100|200|300|500|.|-|-|-|-|-|-|-|
+|19.02.07|*Codeforces Round 375*|TAMREF <br> jhhope1|3|5||**+3**|**+**|.|**+**|.|.|.|.|.|.|.|.|.|
