@@ -2,7 +2,7 @@
 
 ## Profile
 
-+ Blog : http://tam-ref.ga
++ Blog : http://tamref.com
 + BOJ : TAMREF
 + Codeforces : TAMREF
 + Atcoder : TAMREF
