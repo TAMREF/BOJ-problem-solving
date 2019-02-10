@@ -18,7 +18,7 @@ Team / Individual Competitive Programming (Practice) Records
 
 |Date|Contest Name|Members|Pts|Max|Blog|Solved|Recommendable problems|
 |:--------:|--------------------|------|:----:|:---:|:---:|:------------------------------------------:|:-------:|
-|19.01.01|*shake! 2018*|TAMREF|7|8|[TAMREF](http://tam-ref.ga/102)|**A** *B* **CDEFGH**|D|
+|19.01.01|*shake! 2018*|TAMREF|7|8|[TAMREF](http://tamref.com/102)|**A** *B* **CDEFGH**|D|
 |19.01.06|Atcoder Educational DP Contest|TAMREF|20|26||**ABCDEFGHIJKLM**<br>**NOPQRS** *TUVXY* **Z**|UWX|
 |19.01.12|Atcoder AIsing Programming Contest 2019|TAMREF|4|5||**ABCD**||
 |19.01.21|*BAPC 2018*|TAMREF <br> junie <br> messi|7|11||**ABCEFGJ**|DHIK|
