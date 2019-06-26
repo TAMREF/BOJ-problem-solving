@@ -14,7 +14,6 @@
 Team / Individual Competitive Programming (Practice) Records
 + *Italics in Contest Name* : Practice (Virtual).
 + *Italics in problem verdicts* : Upsolved.
-+ Penalty = (First AC Time (min)) + 20min * (WA s).
 
 |Date|Contest Name|Members|Pts|Max|Blog|Solved|Recommendable problems|
 |:--------:|--------------------|------|:----:|:---:|:---:|:------------------------------------------:|:-------:|
@@ -25,3 +24,4 @@ Team / Individual Competitive Programming (Practice) Records
 |19.02.02|*CERC 2014*|TAMREF <br> imeimi <br> maruii|8|12||..**CDEF**.**HI**.**KL**|?|
 |19.02.07|*Codeforces Round 375*|TAMREF <br> jhhope1|3|5||**AB**.**D**.|DE|
 |19.04.20|Atcoder Tenka1 Programmer Contest|TAMREF|3|4||**CDE**.|DF|
+|19.06.25|[*Pacific NW Regional Contest 2018 (3hr)*](https://www.acmicpc.net/category/detail/1976)|TAMREF <br> jhhope1|7|13||**ABCD**.**F**...**J**.**L**.|
